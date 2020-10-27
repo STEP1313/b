@@ -29,4 +29,4 @@ async def unmuting(ctx, member: discord.Member):
 	ctx.send(f'Эххх, +размученный {member.mention},:(.')
 
 
-bot.run('NzcwMzMwODQwMjIzNzExMjUz.X5cAgA.K-dPr8zFf3rAo0ASiZ73AhBum4w')
+bot.run('NzcwMzMwODQwMjIzNzExMjUz.X5cAgA.x1d9sYO1tfdR8RPjcRUNGXLR45Y')
